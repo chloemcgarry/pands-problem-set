@@ -2,8 +2,7 @@
 
 i = int(input("Enter a positive integer"))
 
-sum > 0
-for i > 0
-sum = sum + i
+range(1,i)
+sum = range(1,i)
 
 print(sum)
