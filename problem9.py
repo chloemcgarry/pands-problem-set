@@ -3,7 +3,8 @@
 open(lyrics.py) as f:
 lines = f.readline()
 
-for l in lines:
+for line in f:
+    count = 0
     if l == '\n':
         line.remove(l)
 
