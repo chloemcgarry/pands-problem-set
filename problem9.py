@@ -1,13 +1,13 @@
 # Solution to problem 9
 
-open(lyrics.py) as f:
-lines = f.readline()
+#User inputs file name, assigning it to text
+text = input("Please enter the file: ")
 
-for line in f:
-    count = 0
-    if l == '\n':
-        line.remove(l)
+with open(text) as f:
 
+#For each line in the file
+        for i, line in f:
 
-for i in range(0, len(lines), 2)
-print(lines[i])
+#Prints every even numbered line in the file
+                if i % 2 == 0:
+                        print(line)
