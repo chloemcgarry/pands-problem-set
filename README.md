@@ -27,3 +27,11 @@ Problem 10 - Write a program that displays a plot of the functions x, x^2 and 2^
 # References:
 
 Here is a list of all the resources and websites that I used to support the writing of the code
+
+Stack Over Flow https://stackoverflow.com/
+Real Python https://realpython.com/
+Matplotlib https://matplotlib.org/1.4.2/users/pyplot_tutorial.html
+http://www.openbookproject.net/thinkcs/python/english2e/ch04.html
+Youtube
+Lecture videos for this module
+
